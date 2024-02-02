@@ -1,6 +1,12 @@
 # NN-Assignment-ICP-3
 
-Explanation video : 
+Student Name: Sowmya Doneti
+
+Student ID: 700754085
+
+CRN : 22280
+
+Explanation video :  https://drive.google.com/file/d/1i9VVyqSm4H7XmUbEAKuyiU5stkGVWWrH/view?usp=sharing
 
 
 Neural Network Assignment ICP_3 Programs:
